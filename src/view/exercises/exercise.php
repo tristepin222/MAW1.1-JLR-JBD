@@ -1,4 +1,3 @@
-
 <!-- saved from url=(0073)https://stormy-plateau-54488.herokuapp.com/exercises/378/fulfillments/new -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><header class="heading answering">
   <section class="container">
